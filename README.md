@@ -1,16 +1,15 @@
 # netclan
 
-A new Flutter project.
+## Welcome to the Netclan
 
-## Getting Started
+Enjoy a community experience like never before; Connect, Network, Engage, Contribute, and get benefit from your hyperlocal
+Don't forget to rate the app and suggest enhancements and share with contacts for a better experience.
 
-This project is a starting point for a Flutter application.
+This version comes with the following features:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hyperlocal Networking
+Chat, Audio & Video calling
+Dating/Matrimonial/Buy-Sell-Rent Section
+Hashtags groups and content posting
+Business cards broadcast and sharing
+Personal Notes
