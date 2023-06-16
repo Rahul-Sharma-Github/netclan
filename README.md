@@ -1,6 +1,6 @@
-# Netclan App
+# Netclan Explorer App
 
-## Welcome to the Netclan
+## Welcome to the Netclan Explorer
 
 Enjoy a community experience like never before; Connect, Network, Engage, Contribute, and get benefit from your hyperlocal
 Don't forget to rate the app and suggest enhancements and share with contacts for a better experience.
