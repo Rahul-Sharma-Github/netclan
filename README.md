@@ -1,4 +1,4 @@
-# netclan
+# Netclan App
 
 ## Welcome to the Netclan
 
