@@ -82,19 +82,22 @@ class _ExplorePageState extends State<ExplorePage> {
                 Tab(
                   child: Text(
                     'INDIVIDUAL',
-                    textAlign: TextAlign.start,
+                    textAlign: TextAlign.center,
                   ),
                 ),
                 Tab(
                   child: Text(
                     'PROFESSIONAL',
-                    textAlign: TextAlign.justify,
+                    textAlign: TextAlign.center,
+                    maxLines: 1,
+                    softWrap: false,
+                    overflow: TextOverflow.visible,
                   ),
                 ),
                 Tab(
                   child: Text(
                     'MERCHANT',
-                    textAlign: TextAlign.end,
+                    textAlign: TextAlign.center,
                   ),
                 ),
               ],
