@@ -85,10 +85,12 @@ class _ExplorePageState extends State<ExplorePage> {
                     textAlign: TextAlign.center,
                   ),
                 ),
-                Tab(
-                  child: Text(
-                    'PROFESSIONAL',
-                    textAlign: TextAlign.center,
+                Expanded(
+                  child: Tab(
+                    child: Text(
+                      'PROFESSIONAL',
+                      textAlign: TextAlign.center,
+                    ),
                   ),
                 ),
                 Tab(
