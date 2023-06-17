@@ -80,13 +80,15 @@ class _ExplorePageState extends State<ExplorePage> {
               indicatorColor: Colors.white,
               tabs: [
                 Tab(
-                  child: Text(
-                    'INDIVIDUAL',
-                    textAlign: TextAlign.center,
+                  child: Expanded(
+                    child: Text(
+                      'INDIVIDUAL',
+                      textAlign: TextAlign.center,
+                    ),
                   ),
                 ),
-                Expanded(
-                  child: Tab(
+                Tab(
+                  child: Expanded(
                     child: Text(
                       'PROFESSIONAL',
                       textAlign: TextAlign.center,
@@ -94,9 +96,11 @@ class _ExplorePageState extends State<ExplorePage> {
                   ),
                 ),
                 Tab(
-                  child: Text(
-                    'MERCHANT',
-                    textAlign: TextAlign.center,
+                  child: Expanded(
+                    child: Text(
+                      'MERCHANT',
+                      textAlign: TextAlign.center,
+                    ),
                   ),
                 ),
               ],
