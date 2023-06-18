@@ -60,7 +60,7 @@ class _IndividualState extends State<Individual> {
                             child: Stack(
                               children: [
                                 Align(
-                                  alignment: Alignment.centerRight,
+                                  alignment: Alignment.center,
                                   child: Container(
                                     decoration: BoxDecoration(
                                       color: Colors.white,
@@ -75,19 +75,19 @@ class _IndividualState extends State<Individual> {
                                       // border: Border.all(width: 1),
                                       borderRadius: BorderRadius.circular(32),
                                     ),
-                                    width: 315,
+                                    width: 290,
                                   ),
                                 ),
                                 Padding(
                                   padding: const EdgeInsets.all(8.0),
                                   child: Align(
-                                    alignment: Alignment.topRight,
+                                    alignment: Alignment.topCenter,
                                     child: Container(
                                       decoration: BoxDecoration(
                                           // color: Colors.green,
                                           borderRadius:
                                               BorderRadius.circular(32)),
-                                      width: double.infinity,
+                                      width: 350,
                                       height: 110,
                                       child: Column(
                                         children: [
@@ -97,7 +97,7 @@ class _IndividualState extends State<Individual> {
                                             children: [
                                               Padding(
                                                 padding:
-                                                    EdgeInsets.only(right: 18),
+                                                    EdgeInsets.only(right: 35),
                                                 child: Text(
                                                   '+ INVITE',
                                                   style: TextStyle(
@@ -200,14 +200,14 @@ class _IndividualState extends State<Individual> {
                                 Padding(
                                   padding: const EdgeInsets.all(5.0),
                                   child: Align(
-                                    alignment: Alignment.bottomRight,
+                                    alignment: Alignment.bottomCenter,
                                     child: Container(
                                       decoration: BoxDecoration(
                                           // color: Colors.blue,
                                           borderRadius:
                                               BorderRadius.circular(32)),
                                       height: 90,
-                                      width: 300,
+                                      width: 270,
                                       child: Column(
                                         crossAxisAlignment:
                                             CrossAxisAlignment.start,
